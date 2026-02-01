@@ -22,7 +22,7 @@ Aplicação backend desenvolvida durante o NLW Connect da Rocketseat. Este siste
 1. **Clone o repositório**
 
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/diogomasc/nlw-19-connect-node.git
    cd nlw-connect-node
    ```
 
